@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "country": "INDIA",
+        "location": "Kerala",
+        "image": "bg1.jpg",
+        "overview": "Embark on a captivating 7-day journey through Kerala's diverse landscapes with our tour package. Begin in the historic city of Kochi, wander through the lush tea plantations of Munnar, encounter wildlife in Thekkady's national park, and drift along the serene backwaters of Alleppey on a traditional houseboat. Continue to the golden beaches of Kovalam for relaxation and exploration. Immerse yourself in local culture with included visits to key attractions, guided tours, and optional activities. Experience the best of Kerala's nature, traditions, and hospitality with our thoughtfully curated itinerary."
+    },
+    {
+        "id": 2,
+        "country": "INDIA",
+        "location": "Nasik",
+        "image": "bg2.jpg",
+        "overview": "Discover the allure of Nasik with our 3-day tour package. Start your journey with a visit to the iconic Sula Vineyards, exploring the art of winemaking. Immerse yourself in the spiritual ambiance of Trimbakeshwar Temple and experience the tranquility of the Godavari River. Enjoy a scenic drive through the vineyard-draped landscape and relish local cuisine. The package includes comfortable accommodation, guided tours, and transportation. Uncover the rich blend of spirituality and viticulture that Nasik has to offer, making for a memorable and culturally enriching getaway."
+    },
+    {
+        "id": 2,
+        "country": "INDIA",
+        "location": "Mumbai",
+        "image": "bg2.jpg",
+        "overview": "Embark on a dynamic Mumbai experience with our 4-day tour package. Dive into the city's vibrant culture as you explore iconic landmarks such as the Gateway of India, Marine Drive, and Elephanta Caves. Indulge in a Bollywood tour, offering a glimpse into the glamorous film industry. Discover the diverse flavors of Mumbai through street food adventures and culinary delights. The package includes comfortable accommodation, guided city tours, and hassle-free transportation. Immerse yourself in the energy and spirit of the 'City of Dreams' with this thoughtfully curated itinerary, promising a blend of history, entertainment, and culinary delights."
+    },
+    {
+        "id": 3,
+        "country": "INDIA",
+        "location": "Taj mahal",
+        "image": "bg3.jpg",
+        "overview": "Embark on a mesmerizing journey to the crown jewel of India with our Taj Mahal tour package. Over two days, delve into the architectural grandeur of the Taj Mahal, explore the Agra Fort, and witness the beauty of the Mehtab Bagh garden. Enjoy a guided tour, providing historical insights and capturing the essence of Mughal artistry. Experience the rich culture of Agra and indulge in authentic cuisine. The package includes comfortable accommodation, guided tours, and seamless transportation. Immerse yourself in the timeless allure of the Taj Mahal, creating memories of a lifetime with this meticulously crafted itinerary."
+    },
+    {
+        "id": 4,
+        "country": "INDIA",
+        "location": "Simhla",
+        "image": "bg4.jpg",
+        "overview": "Embark on a delightful journey to Shimla with our 5-day tour package. Immerse yourself in the charm of this hill station, exploring attractions like the Ridge, Mall Road, and Jakhoo Temple. Experience the scenic beauty of Kufri with thrilling activities like horse riding and skiing. The package includes cozy accommodation, guided tours, and convenient transportation. Enjoy the cool mountain breeze, savor local cuisine, and witness the spectacular views of the Himalayas. Unwind in this picturesque retreat, blending nature's beauty with cultural experiences for a memorable Shimla getaway."
+    },
+    {
+        "id": 4,
+        "country": "INDIA",
+        "location": "manli",
+        "image": "bg4.jpg",
+        "overview": "Embark on an unforgettable journey to Manali with our 6-day tour package. Revel in the scenic beauty of the Solang Valley, Rohtang Pass, and Hadimba Temple. Experience thrilling adventures like paragliding and skiing, creating lasting memories. The package includes comfortable accommodation, guided tours, and seamless transportation. Immerse yourself in the local culture, indulge in delectable Himachali cuisine, and enjoy the tranquility of the Beas River. Discover the charm of Manali, where snow-capped peaks meet vibrant landscapes, offering a perfect blend of adventure and relaxation."
+    },
+    {
+        "id": 4,
+        "country": "INDIA",
+        "location": "kashmir",
+        "image": "bg4.jpg",
+        "overview": "Rome, the city of seven hills, enjoyed a mythic beginning. Romulus and Remus – twin brothers who were nursed by a she-wolf and fathered by a war god – reportedly founded the Eternal City. And although historians are a little skeptical about this epic entry into the world, most travelers are absolutely certain that there is something magical about Rome. Whether it's the mystery of nearby Vatican City or the ghosts of the Colosseum, an afternoon caffè on Piazza Navona or a piled-high plate of pasta at a trattoria, Roma is sure to enchant."
+    },
+    {
+        "id": 4,
+        "country": "INDIA",
+        "location": "kashmir",
+        "image": "bg4.jpg",
+        "overview": "Rome, the city of seven hills, enjoyed a mythic beginning. Romulus and Remus – twin brothers who were nursed by a she-wolf and fathered by a war god – reportedly founded the Eternal City. And although historians are a little skeptical about this epic entry into the world, most travelers are absolutely certain that there is something magical about Rome. Whether it's the mystery of nearby Vatican City or the ghosts of the Colosseum, an afternoon caffè on Piazza Navona or a piled-high plate of pasta at a trattoria, Roma is sure to enchant."
+    },
+    {
+        "id": 5,
+        "country": "INDIA",
+        "location": "Banaras",
+        "image": "bg5.jpg",
+        "overview": "Barcelona contains both the authentically historic and the wildly bizarre. From the scenic trails of the colorful Park Güell to the romantic narrow alleys of Barri Gòtic; from the beachside nightclubs to the city's dozens of sacred churches and architectural marvels, this city by the sea seems to attract all types: the adventurer, the couple, the partier, the culture lover – and more – with an almost overwhelming variety of things to do. You could stay for a few days, but chances are you'll need a whole week to explore."
+    },
+    {
+        "id": 6,
+        "country": "INDIA",
+        "location": "Ladak",
+        "image": "bg6.jpg",
+        "overview": "Cool, cosmopolitan, crowded, constantly evolving … the Big Apple blends big city splendor with small-town charm. Amid Gotham's iconic landmarks and towering skyscrapers, you'll experience a vibrant culture permeating each of the city's distinctive neighborhoods and boroughs. Follow trendsetters to the East Village and Brooklyn to check out indie boutiques, iconic bakeries and trendy coffee shops. Afterward, peruse the racks of the sleek shops lining Fifth Avenue, admire the cutting-edge art collections at the MoMA and the Met, catch a memorable show on Broadway or sit down for a meal at the latest 'it' restaurant."
+    },
+    {
+        "id": 7,
+        "country": "INDIA",
+        "location": "Lotus temple",
+        "image": "bg7.jpg",
+        "overview": "A massive volcanic eruption around 1650 B.C. forced the center of what was then a single island to implode and succumb to the sea. Some say that this was the original home of the lost city of Atlantis, which long ago disappeared into the ocean's depths. Whatever remains of this mythological metropolis is now guarded by beautiful beaches and stately whitewashed homes. Today, Santorini consists of two inhabited islands and several islets. Most visitors spend their time on Thira (the archipelago's largest island), which is home to Santorini's major towns, including Fira and Oia. Sleepy Thirassia makes for a relaxing daytrip too. And don't count out the quieter islands: Nea Kameni and Palea Kameni are worth exploring."
+    },
+    {
+        "id": 8,
+        "country": "INDIA",
+        "location": "Jaipur",
+        "image": "bg8.jpg",
+        "overview": "Don't believe everything you hear about Amsterdam. Yes, this Netherlands city takes a lax look at women beckoning business in the Red Light District and 'coffee shops' selling an unorthodox type of herb to a toking clientele, but these descriptions only scratch the surface. At some point, during an excellent Indonesian meal, a twilight canal-side rambling or a shopping excursion through the boutiques of Nine Little Streets, you'll realize – as many travelers have before you – that there's much more to Amsterdam than you might've thought."
+    }
+]
